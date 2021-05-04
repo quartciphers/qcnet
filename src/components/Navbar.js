@@ -21,7 +21,7 @@ export default function Navbar(props) {
             }
             href="#home"
           >
-            <img src={logo} width='300px' data-aos="fade-left" alt='QC'></img>
+            <img src={logo} width='150px' data-aos="fade-left" alt='QC'></img>
           </a>
           <button
             className="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
