@@ -32,7 +32,7 @@ export default function Landing() {
                 <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                   <div className="pr-12">
                     <h1 className="text-white font-semibold text-5xl" data-aos="fade-up">
-                      Solve With Tech That Matter.
+                      Solve With Tech That Matters.
                     </h1>
                     <p className="mt-4 text-lg text-gray-300" data-aos="fade-right" data-aos-delay="1000">
                    
@@ -106,7 +106,7 @@ export default function Landing() {
                       Verified Company
                     </h6>
                     <p className="mt-2 mb-4 text-gray-600">
-                    Quart Ciphers It And Consulting Services Llp's  were filed  as per records from Ministry of Corporate Affairs (MCA),
+                    Quart Ciphers IT And Consulting Services LLp's  were filed  as per records from Ministry of Corporate Affairs (MCA),
                     </p>
                   </div>
                 </div>
