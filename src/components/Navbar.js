@@ -21,7 +21,7 @@ export default function Navbar(props) {
             }
             href="#home"
           >
-            <img src={logo} width='150px' data-aos="fade-left" alt='QC'></img>
+            <img src={logo} width='75px' data-aos="fade-left" alt='QC'></img>
           </a>
           <button
             className="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -65,7 +65,7 @@ export default function Navbar(props) {
                     " fab fa-linkedin text-lg leading-lg "
                   }
                 />
-                <span className="lg:hidden inline-block ml-2">Share</span>
+                <span className="lg:hidden inline-block ml-2">Connect</span>
               </a>
             </li>
 
@@ -89,7 +89,7 @@ export default function Navbar(props) {
                     " fab fa-instagram text-lg leading-lg "
                   }
                 />
-                <span className="lg:hidden inline-block ml-2">Tweet</span>
+                <span className="lg:hidden inline-block ml-2">Hearts</span>
               </a>
             </li>
 
@@ -113,7 +113,7 @@ export default function Navbar(props) {
                     " fab fa-facebook text-lg leading-lg "
                   } 
                 />
-                <span className="lg:hidden inline-block ml-2">Star</span>
+                <span className="lg:hidden inline-block ml-2">Share</span>
               </a>
             </li>
 
