@@ -405,7 +405,7 @@ export default function Landing() {
                       >
                         <i className="fab fa-youtube"></i>
                       </button></a>
-                      <a href='https://twitter.com/damn2kathir?lang=en'> <button
+                      <a href='https://twitter.com/RayDCode1'> <button
                         className="bg-blue-500 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                         type="button"
                       >
